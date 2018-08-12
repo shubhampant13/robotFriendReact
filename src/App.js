@@ -2,6 +2,8 @@ import React , {Component} from 'react';
 import CardList from './CardList';
 import {robots} from './Robots';
 import SearchBox from './SearchBox';
+import './App.css';
+
 
 const State = {
 	

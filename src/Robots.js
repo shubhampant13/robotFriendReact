@@ -1,45 +1,45 @@
 export const robots = [
   {
     id: 1,
-    name: 'Leanne Graham',
-    username: 'Bret',
+    name: 'Shalini pant',
+    username: 'Shalini',
     email: 'Sincere@april.biz'
   },
   {
     id: 2,
-    name: 'Ervin Howell',
-    username: 'Antonette',
-    email: 'Shanna@melissa.tv'
+    name: 'Kashish Agarwal',
+    username: 'Kashish',
+    email: 'Kashish@meli.tv'
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
-    username: 'Samantha',
-    email: 'Nathan@yesenia.net'
+    name: 'Rahul Mhajan',
+    username: 'Rahul',
+    email: 'Rahulxyx@yesenia.net'
   },
   {
     id: 4,
-    name: 'Patricia Lebsack',
-    username: 'Karianne',
-    email: 'Julianne.OConner@kory.org'
+    name: 'Viksi Shwa',
+    username: 'Vikswhaw',
+    email: 'Shawr@kory.org'
   },
   {
     id: 5,
-    name: 'Chelsey Dietrich',
-    username: 'Kamren',
-    email: 'Lucio_Hettinger@annie.ca'
+    name: 'Chelsey King',
+    username: 'Cheksey',
+    email: 'Chejw_king@annie.ca'
   },
   {
     id: 6,
-    name: 'Mrs. Dennis Schulist',
-    username: 'Leopoldo_Corkery',
-    email: 'Karley_Dach@jasper.info'
+    name: 'Mrs. Mina bajja',
+    username: 'mina-bajja',
+    email: 'minna_13@jasper.info'
   },
   {
     id: 7,
-    name: 'Kurtis Weissnat',
-    username: 'Elwyn.Skiles',
-    email: 'Telly.Hoeger@billy.biz'
+    name: 'Leonardo De Caprio',
+    username: 'LeDeCa',
+    email: 'Decap@billy.biz'
   },
   {
     id: 8,
