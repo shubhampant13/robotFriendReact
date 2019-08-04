@@ -3,12 +3,7 @@ import CardList from './CardList';
 import {robots} from './Robots';
 import SearchBox from './SearchBox';
 import './App.css';
-
-
-const State = {
-	
-}
-
+import Scroll from './Scroll';
 
 class App extends React.Component {
 
@@ -30,11 +25,18 @@ class App extends React.Component {
    								return robots.name.toLowerCase().includes(this.state.searchfield.toLowerCase());
    			        			}
    			        		);
+
+                    if(!robots.length)
+                    	return <h1> LOADING </h1>
+
 			  		return (
 			  			<div className="tc">
-			            	<h1> Friend's Card List</h1>
+			            	<h1>Friend's Card List</h1>
 			            	<SearchBox searchChange={this.onSearchChange}/>
+			  			 	<Scroll>
 			  			 	<CardList robots={filterRobots} />
+			  			 	</Scroll>
+			            	
 			            </div>
 			  			);
                 }

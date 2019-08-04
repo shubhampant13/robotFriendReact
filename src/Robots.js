@@ -37,13 +37,13 @@ export const robots = [
   },
   {
     id: 7,
-    name: 'Leonardo De Caprio',
+    name: 'Leodo De Caprio',
     username: 'LeDeCa',
     email: 'Decap@billy.biz'
   },
   {
     id: 8,
-    name: 'Nicholas Runolfsdottir V',
+    name: 'Nicholas Run V',
     username: 'Maxime_Nienow',
     email: 'Sherwood@rosamond.me'
   },
@@ -55,7 +55,7 @@ export const robots = [
   },
   {
     id: 10,
-    name: 'Clementina DuBuque',
+    name: 'Clemen DuBuque',
     username: 'Moriah.Stanton',
     email: 'Rey.Padberg@karina.biz'
   }
