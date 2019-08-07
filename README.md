@@ -13,5 +13,10 @@ Robohash - random robot images
 CUFONFONTS -css  
   
 **Demonstration of search functionality available here -> https://tinyurl.com/yyqj7hul **  
+  
+  
+![Image-1](https://github.com/shubhampant13/robotFriendReact/blob/master/snapshot1.PNG)  
+![Image-1](https://github.com/shubhampant13/robotFriendReact/blob/master/snapshot2.PNG)  
+
 
 
